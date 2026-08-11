@@ -32,6 +32,10 @@ Each playground focuses on a different system and helps me strengthen my underst
 
 This repository is a work in progress and will continue to grow as I complete new exercises and improve existing solutions. It reflects my hands-on practice with Swift and my approach to breaking down problems into manageable, testable logic.
 
+## Using These Exercises
+
+You’re welcome to use, adapt, or build on the exercise prompts in this repository for your own Swift practice. Please use them as learning material and create your own solutions.
+
 ## Author
 
 Jordan Weaver
